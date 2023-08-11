@@ -1,4 +1,4 @@
-package Q5;
+package Question5;
 
 import java.util.Random;
 

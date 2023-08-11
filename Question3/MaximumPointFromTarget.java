@@ -19,7 +19,7 @@ of the provided target list
 points =      3*1*5+   3*5*8   +  1*3*8  + 1*8*1 = 167 
  */
 
-package Q3;
+package Question3;
 
 public class MaximumPointFromTarget {
     public static int getMaxPoints(int[] a) {

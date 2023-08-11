@@ -22,7 +22,7 @@ Auxiliary Space: O(1)
 */
 
 
-package Q1;
+package Question1;
 
 public class MinimumCostClothing {
 

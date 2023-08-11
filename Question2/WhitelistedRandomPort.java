@@ -22,7 +22,7 @@ p.get(); // return 4
 
  */
 
-package Q2;
+package Question2;
 
 import java.util.HashSet;
 import java.util.Random;

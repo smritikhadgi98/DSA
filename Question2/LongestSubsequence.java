@@ -14,7 +14,7 @@ The subsequence has a length of 5, so we return 5.
 Note that the subsequence [1,3,4,5,8,15] does not meet the requirements because 15 - 8 = 7 is larger than 3. 
 */
 
-package Q2;
+package Question2;
 
 public class LongestSubsequence {
     public static int longestSequence(int[] nums, int k) {

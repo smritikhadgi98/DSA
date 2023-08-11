@@ -14,7 +14,7 @@ Explanation: You can give the first, second, and third rider 2, 1, 2 gold coins,
 
 
 
-package Q1;
+package Question1;
 
 public class MinimumCoinDistribution {
     public static int minCoins(int[] rating) {
@@ -57,3 +57,4 @@ public class MinimumCoinDistribution {
     }
 
 }
+
